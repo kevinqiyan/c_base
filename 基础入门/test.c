@@ -13,6 +13,7 @@ int main(void)
     printf("a = %d\n", a);
     printf("hello world\n");
     printf("p = %d\n", PI);
+    printf("a1 = %d\n", a1);
     return 0;
 }
 
